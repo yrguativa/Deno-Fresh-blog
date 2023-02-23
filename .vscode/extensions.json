@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "denoland.vscode-deno",
+    "ms-vscode.js-debug-companion",
+    "sastan.twind-intellisense"
+  ]
+}
